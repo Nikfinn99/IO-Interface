@@ -1,0 +1,3 @@
+#include "Led.h"
+
+LED DEBUG_LED(LED_BUILTIN, LED::INVERSE);
