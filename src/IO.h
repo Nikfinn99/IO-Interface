@@ -52,8 +52,8 @@ public:
     }
 
     enum {
-        NORMAL,
-        INVERSE
+        NORMAL = 0,
+        INVERSE = 1
     };
 };
 
